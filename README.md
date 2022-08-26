@@ -1,0 +1,4 @@
+# Predicting Climate using Aerial Imagery
+## Our project involves a notebook attached in the folder and a research paper to accompany it. Below is the abstract to the research paper.
+### Abstract: A well known issue throughout the world is Climate Change. To combat this problem, aerial imagery can be classified into different Koeppen-Geiger climate types, which can be compared to themselves in future years, showing any type of evidence that the climate is changing. We approach the problem by using Convolutional Neural Networks and the haversine formula, which classify images to their respective climate type. The model predicted the climates with reasonable accuracy, fluctuating around 50% validation accuracy. 
+### Keywords: Koeppen-Geiger Climates, Image Classification, Convolutional Neural Networks, Keras
